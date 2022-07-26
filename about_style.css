@@ -1,13 +1,8 @@
-body{
-
-    background-color: black;
-}
-
-
 #about{
     background-color: black;
     color: white;
 }
+
 div {
     display: block;
 }
@@ -17,6 +12,7 @@ body {
     height: 100vh;
     display: block;
     margin: 8px;
+    background-color: black;
 }
 #about h2 {
     font-size: 30px;
