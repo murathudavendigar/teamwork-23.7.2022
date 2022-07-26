@@ -1,0 +1,46 @@
+#contact{
+    background-color: black;
+    color: white;
+}
+div {
+    display: block;
+}
+
+
+body {
+    height: 100vh;
+    display: block;
+    margin: 8px;
+}
+#contact h2 {
+    font-size: 30px;
+    font-family: "Audiowide", sans-serif;
+    text-align: center;
+    color: red;
+}
+h2 {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+p {
+    display: block;
+   
+}
+
+#contact p {
+    font-size: 20px;
+    font-family: "Arial", sans-serif;
+    padding: 0 10px;
+}
+
+#link{
+    text-decoration: none;
+    color: white;
+}
+
+#link:hover{
+color: red;
+background-color: white;
+
+}
