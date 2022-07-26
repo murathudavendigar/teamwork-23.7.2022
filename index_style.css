@@ -61,6 +61,7 @@ ul {
     text-align: center;
     color: white;
     height: 90vh;
+    position: relative;
 }
 #main h1 {
     font-size: 60px;
